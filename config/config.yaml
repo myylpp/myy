@@ -46,14 +46,20 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "zaobao"
-    name: "联合早报"
   - id: "ithome"
     name: "IT之家"
   - id: "jin10"
     name: "金十数据"
   - id: "chongbuluo"
     name: "虫部落"
+  - id: "github"
+    name: "GitHub"
+  - id: "juejin"
+    name: "掘金"
+  - id: "pcbeta"
+    name: "远景论坛"
+  - id: "sspai"
+    name: "少数派"
 
 # ===============================================================
 # 3. 数据源 - RSS 订阅
